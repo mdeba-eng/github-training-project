@@ -55,3 +55,8 @@ footer {
     padding: 15px;
     margin-top: auto;
 }
+.profile-card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+    border-top: 5px solid #3498db;
+}
